@@ -1,0 +1,16 @@
+.userName{
+    font-size: 30px;
+}
+.cardInfo {
+    background-color: white;
+    color: black;
+    width: 200px;
+    border-radius: 15px;
+    margin: 10px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+.cardInfo p:not(.userName){
+    font-size: 20px;
+}
