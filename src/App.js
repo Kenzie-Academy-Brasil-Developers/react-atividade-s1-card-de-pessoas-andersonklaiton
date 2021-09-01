@@ -2,9 +2,11 @@ import './App.css';
 import Developer from './components/Developer'
 
 function App() {
+  
   const userGabriel = ["Gabriel", 19, "Brasil"]
   const userFilipe = ["Filipe", 28, "Brasil"]
   const userMariana = ["Mariana", 24, "Itália"]
+  
   return (
     <div className="App">
       <div className="App-header">
