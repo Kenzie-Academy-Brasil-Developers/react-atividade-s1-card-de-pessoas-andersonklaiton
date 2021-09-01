@@ -1,5 +1,4 @@
 import "./style.css"
-
 function Developer({name, age, country}){
     return(
         <div className="cardInfo">
