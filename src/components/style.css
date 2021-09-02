@@ -1,6 +1,7 @@
 .userName{
     font-size: 30px;
 }
+
 .cardInfo {
     background-color: white;
     color: black;
@@ -11,6 +12,7 @@
     display: flex;
     align-items: center;
 }
+
 .cardInfo p:not(.userName){
     font-size: 20px;
 }
